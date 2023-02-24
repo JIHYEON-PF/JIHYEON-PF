@@ -1,6 +1,6 @@
 <p>
   <a href="mailto:wlgus120332@gmail.com"><img src="https://img.shields.io/badge/wlgus120332@gmail.com-EA4335?style=square&logo=Gmail&logoColor=white"/><a/>
-  <a href="mailto:kenj_h@naver.com"><img src="https://img.shields.io/badge/kenj_h@naver.com-03C75A?style=square&logo=Naver&logoColor=white"/><a/>
+  
 </p>
 
 <p>
@@ -29,7 +29,6 @@
 <p>
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572b6?style=square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=square&logo=Thymeleaf&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=square&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=square&logo=Bootstrap&logoColor=white"/>
 </p>
@@ -52,3 +51,5 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIHYEON-PF&show_icons=true&theme=vue)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kensino)](https://solved.ac/kensino/)
